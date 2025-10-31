@@ -1,0 +1,5 @@
+[13-Jun-2025 08:22:28 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\project_list_backend/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\project_list_backend\google_login.php on line 25
+[13-Jun-2025 08:22:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\project_list_backend/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\project_list_backend\google_login.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\project_list_backend\google_login.php on line 25
